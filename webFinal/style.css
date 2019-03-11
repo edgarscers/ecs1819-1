@@ -12,7 +12,8 @@
   }
 .body {border-color: coral;}
 .row{
-  color: red;
+  color: navy;
+  font-size: 20px;
 }
 .col{
   font-family: 'Lora', serif;
