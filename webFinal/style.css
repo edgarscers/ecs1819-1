@@ -10,3 +10,20 @@
    .carousel-control-prev {
     background-color: black
   }
+.body {border-color: coral;}
+.row{
+  color: red;
+}
+.col{
+  font-family: 'Lora', serif;
+  
+}
+.jumbotron{
+    background-image:url("images/vball1.png");
+    color: Blue;
+    font-family: 'Pacifico', cursive;
+    }
+.title{
+  font-family: 'Bree Serif', serif;
+  color: purple;
+}    
