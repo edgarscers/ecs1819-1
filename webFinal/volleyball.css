@@ -1,0 +1,34 @@
+
+.jumbotron{
+    background-image:url("imagesvb/volley1.jpg");
+    background-size: cover;
+    color: Blue;
+    font-family: 'Pacifico', cursive;
+    font-size:20px;
+    }
+.body{
+    background-color: lightblue;
+}
+.first{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #cc6699
+}    
+
+
+#row1{
+    color:orange ;
+  
+    
+}
+
+#row3{
+    font-size: 30px;
+    
+}
+
+.hr3{
+    color: #ff7b5d;
+background-color: #ff7b5d;
+height: 3px;
+}
