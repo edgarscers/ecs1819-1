@@ -1,0 +1,47 @@
+.jumbotron{
+    background-image:url("images/jumbolv.jpg");
+    height: 300px;
+    color: Navy;
+   font-family: 'Lobster Two', cursive;
+    font-size:20px;
+    }
+.body{
+    background-color: lightblue;
+}
+.first{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #cc6699
+}    
+
+#title{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    color:navy;
+}
+
+
+#row1{
+    color:#cc6699 ;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px
+  
+    
+}
+
+#row3{
+    font-size: 15px;
+    
+}
+
+.p1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #cc6699;
+}
+
+.hr3{
+    color: #ff7b5d;
+background-color: #ff7b5d;
+height: 3px;
+}

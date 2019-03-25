@@ -2,8 +2,8 @@
 .jumbotron{
     background-image:url("imagesvb/volley1.jpg");
     background-size: cover;
-    color: Blue;
-    font-family: 'Pacifico', cursive;
+    color: Navy;
+   font-family: 'Lobster Two', cursive;
     font-size:20px;
     }
 .body{
@@ -15,16 +15,29 @@
     color: #cc6699
 }    
 
+.title{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 50px;
+    color:navy;
+}
+
 
 #row1{
-    color:orange ;
+    color:#cc6699 ;
+    font-family: 'Oswald', sans-serif;
   
     
 }
 
 #row3{
-    font-size: 30px;
+    font-size: 15px;
     
+}
+
+.p1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: #cc6699;
 }
 
 .hr3{
