@@ -52,3 +52,12 @@
 background-color: #ff7b5d;
 height: 3px;
 }
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
